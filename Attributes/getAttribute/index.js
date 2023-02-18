@@ -1,0 +1,11 @@
+
+let first = document.getElementById("first")
+let a = first.getAttribute("class")
+console.log(a)
+let b = set.getAttribute("class")
+console.log(b)
+console.log(first.hasAttribute("class"))
+// first.setAttribute("hidden", "true")
+// first.removeAttribute("hidden")
+// first.removeAttribute("class")
+console.log(first.attributes)

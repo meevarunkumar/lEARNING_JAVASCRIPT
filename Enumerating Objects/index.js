@@ -1,4 +1,4 @@
-//noraml object creation
+//normal object creation
 
 const circle={
     radius:40,

@@ -4,3 +4,4 @@ function count(number){
    return ++number;
 }
 let c = count(number)
+console.log(c);

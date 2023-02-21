@@ -29,4 +29,5 @@ User.prototype.c= function(){
 console.log(v.car)
 console.log(s.car)
 v.c()
+s.c()
 

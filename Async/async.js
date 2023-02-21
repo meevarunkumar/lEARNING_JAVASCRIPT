@@ -8,7 +8,7 @@ function getData(){
 }
 
  async function start(){
-    let result =  await getData();
+    let result =await getData();
     console.log(result);
 }
 start()

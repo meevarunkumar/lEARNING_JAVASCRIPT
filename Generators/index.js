@@ -14,6 +14,7 @@ const fruit = iterate(myArray);
 console.log(fruit.next());
 console.log(fruit.next());
 console.log(fruit.next());
+console.log(fruit.next());
 
 
 
